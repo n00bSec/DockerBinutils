@@ -1,0 +1,5 @@
+First ever Docker container, built for fuzzing cxxfilt in GNU binutils.
+
+Put together on Ubuntu, using the Ubuntu image as a base.
+
+To get started, simply run `./launch.sh` in a terminal.
