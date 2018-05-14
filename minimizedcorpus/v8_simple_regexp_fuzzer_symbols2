@@ -1,0 +1,16 @@
+                 U _Z9V8_DcheckPKciS0_
+                 U _ZdlPv
+0000000000010010 b _ZGVZ22LLVMFuzzerTestOneInputE9kAllFlags
+000000000000d2a0 W _ZN2v810MaybeLocalINS_14ObjectTemplateEEC2Ev
+000000000000d2a0 W _ZN2v810MaybeLocalINS_5ValueEEC2Ev
+                 U _ZN2v811ArrayBuffer9Allocator19NewDefaultAllocatorEv
+                 U _ZN2v811HandleScope12CreateHandleEPNS_8internal7IsolateEPNS1_6ObjectE
+                 U _ZN2v811HandleScopeC1EPNS_7IsolateE
+                 U _ZN2v811HandleScopeD1Ev
+                 U _ZN2v811HandleScopeD2Ev
+000000000000d5c0 W _ZN2v814PersistentBaseINS_7ContextEE3NewEPNS_7IsolateEPS1_
+000000000000d2f0 W _ZN2v814PersistentBaseINS_7ContextEE5ResetEv
+000000000000d220 W _ZN2v814PersistentBaseINS_7ContextEE5ResetIS1_EEvPNS_7IsolateERKNS_5LocalIT_EE
+000000000000b2b0 W _ZN2v814PersistentBaseINS_7ContextEEC2EPS1_
+                 U _ZN2v819ResourceConstraintsC1Ev
+                 U _ZN2v820EscapableHandleScope6EscapeEPPNS_8internal6ObjectE

@@ -1,0 +1,4 @@
+                 U _ZTVNSt3__19basic_iosIcNS_11char_traitsIcEEEE
+00000000000005da r _ZZ22LLVMFuzzerTestOneInputE14one_byte_array
+00000000000005e0 r _ZZ22LLVMFuzzerTestOneInputE14two_byte_array
+0000000000010008 b _ZZ22LLVMFuzzerTestOneInputE9kAllFlags

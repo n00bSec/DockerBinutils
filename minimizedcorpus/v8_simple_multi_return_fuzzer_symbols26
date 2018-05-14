@@ -1,0 +1,10 @@
+0000000000015090 V _ZTCNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_13basic_ostreamIcS2_EE
+0000000000015070 V _ZTTNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+                 U _ZTv0_n24_NSt3__113basic_ostreamIcNS_11char_traitsIcEEED0Ev
+                 U _ZTv0_n24_NSt3__113basic_ostreamIcNS_11char_traitsIcEEED1Ev
+000000000000e230 W _ZTv0_n24_NSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED0Ev
+000000000000e210 W _ZTv0_n24_NSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEED1Ev
+00000000000150e0 V _ZTVNSt3__115basic_stringbufIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+0000000000015020 V _ZTVNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+                 U _ZTVNSt3__18ios_baseE
+                 U _ZTVNSt3__19basic_iosIcNS_11char_traitsIcEEEE

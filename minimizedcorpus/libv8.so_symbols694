@@ -1,0 +1,13 @@
+0000000001c91ea0 W _ZN2v84base4bits19CountLeadingZeros64Em
+0000000001175820 W _ZN2v84base4bits19SignedAddOverflow32EiiPi
+                 U _ZN2v84base4bits19SignedMulOverflow32EiiPi
+0000000001175850 W _ZN2v84base4bits19SignedSubOverflow32EiiPi
+0000000001c91e80 W _ZN2v84base4bits20CountTrailingZeros64Em
+                 U _ZN2v84base4bits20SignedSaturatedAdd64Ell
+                 U _ZN2v84base4bits21RoundUpToPowerOfTwo32Ej
+                 U _ZN2v84base4bits21RoundUpToPowerOfTwo64Em
+00000000010539c0 W _ZN2v84base4bits21UnsignedAddOverflow32EjjPj
+0000000000cae210 W _ZN2v84base5FlagsINS_8internal17CodeStubAssembler14AllocationFlagEiEaNERKS5_
+0000000000c29c50 W _ZN2v84base5FlagsINS_8internal17CodeStubAssembler14AllocationFlagEiEC2Ei
+0000000000cabd00 W _ZN2v84base5FlagsINS_8internal17CodeStubAssembler14AllocationFlagEiEC2ES4_
+0000000000f0cd20 W _ZN2v84base5FlagsINS_8internal17CodeStubAssembler14AllocationFlagEiEoRERKS5_

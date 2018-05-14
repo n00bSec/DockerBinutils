@@ -1,0 +1,12 @@
+000000000001cd40 t _ZNSt3__18functionIFN2v88internal21MachineRepresentationEmEEC2IZNS2_4wasm6fuzzer12_GLOBAL__N_115PrintParametersEPKNS2_9SignatureIS3_EEE3$_0vEET_
+0000000000020fe0 W _ZNSt3__18functionIFN2v88internal21MachineRepresentationEmEED2Ev
+                 U _ZNSt3__18ios_base4initEPv
+                 U _ZNSt3__18ios_base5clearEj
+                 U _ZNSt3__19basic_iosIcNS_11char_traitsIcEEED2Ev
+0000000000001230 r _ZNSt3__1L19piecewise_constructE
+0000000000015ac0 W _ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc
+                 U _Znwm
+00000000000280e0 V _ZTCNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE0_NS_13basic_ostreamIcS2_EE
+00000000000280c0 V _ZTTNSt3__119basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
+                 U _ZTv0_n24_NSt3__113basic_ostreamIcNS_11char_traitsIcEEED0Ev
+                 U _ZTv0_n24_NSt3__113basic_ostreamIcNS_11char_traitsIcEEED1Ev

@@ -1,0 +1,17 @@
+00000000000181f0 W _Z8bit_castIPPN2v88internal7OddballEPPNS1_6ObjectEET_RKT0_
+                 U _Z8V8_FatalPKciS0_z
+                 U _Z9V8_DcheckPKciS0_
+                 U _ZdaPv
+                 U _ZdlPv
+0000000000012270 W _ZN2v810MaybeLocalINS_14ObjectTemplateEEC2Ev
+0000000000012270 W _ZN2v810MaybeLocalINS_5ValueEEC2Ev
+                 U _ZN2v811ArrayBuffer9Allocator19NewDefaultAllocatorEv
+                 U _ZN2v811HandleScope12CreateHandleEPNS_8internal7IsolateEPNS1_6ObjectE
+                 U _ZN2v811HandleScopeC1EPNS_7IsolateE
+                 U _ZN2v811HandleScopeD1Ev
+                 U _ZN2v811HandleScopeD2Ev
+00000000000125f0 W _ZN2v814PersistentBaseINS_7ContextEE3NewEPNS_7IsolateEPS1_
+00000000000122e0 W _ZN2v814PersistentBaseINS_7ContextEE5ResetEv
+00000000000121f0 W _ZN2v814PersistentBaseINS_7ContextEE5ResetIS1_EEvPNS_7IsolateERKNS_5LocalIT_EE
+00000000000125b0 W _ZN2v814PersistentBaseINS_7ContextEEC2EPS1_
+                 U _ZN2v819ResourceConstraintsC1Ev

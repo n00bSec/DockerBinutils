@@ -1,0 +1,17 @@
+                 U gnutls_global_init@@GNUTLS_3_4
+                 U gnutls_handshake@@GNUTLS_3_4
+                 U gnutls_init@@GNUTLS_3_4
+                 U gnutls_priority_set_direct@@GNUTLS_3_4
+                 U gnutls_record_get_direction@@GNUTLS_3_4
+                 U gnutls_record_recv@@GNUTLS_3_4
+                 U gnutls_record_send@@GNUTLS_3_4
+                 U gnutls_rnd@@GNUTLS_3_4
+                 U gnutls_strerror@@GNUTLS_3_4
+                 U gnutls_transport_set_ptr@@GNUTLS_3_4
+                 U gnutls_transport_set_pull_function@@GNUTLS_3_4
+                 U gnutls_transport_set_push_function@@GNUTLS_3_4
+                 U gnutls_x509_crt_check_hostname@@GNUTLS_3_4
+                 U gnutls_x509_crt_deinit@@GNUTLS_3_4
+                 U gnutls_x509_crt_get_activation_time@@GNUTLS_3_4
+                 U gnutls_x509_crt_get_basic_constraints@@GNUTLS_3_4
+                 U gnutls_x509_crt_get_dn@@GNUTLS_3_4

@@ -1,0 +1,15 @@
+0000000000bcbe90 W _ZNK6icu_6013FieldPosition8getFieldEv
+00000000017823a0 W _ZNK6icu_6013UnicodeString12toUTF8StringINSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEEEERT_SA_
+                 U _ZNK6icu_6013UnicodeString13tempSubStringEii
+0000000000d89fb0 W _ZNK6icu_6013UnicodeString14getShortLengthEv
+0000000000d89f90 W _ZNK6icu_6013UnicodeString14hasShortLengthEv
+0000000000d8a550 W _ZNK6icu_6013UnicodeString20tempSubStringBetweenEii
+0000000000d89ec0 W _ZNK6icu_6013UnicodeString6lengthEv
+                 U _ZNK6icu_6013UnicodeString6toUTF8ERNS_8ByteSinkE
+0000000001781d50 W _ZNK6icu_6013UnicodeString7isBogusEv
+0000000001781d70 W _ZNK6icu_6013UnicodeString7isEmptyEv
+                 U _ZNK6icu_6013UnicodeString8doEqualsERKS0_i
+0000000000d89e50 W _ZNK6icu_6013UnicodeString9getBufferEv
+0000000001781b20 W _ZNK6icu_6013UnicodeStringeqERKS0_
+0000000000bbfc10 W _ZNK6icu_6014ConstChar16Ptr3getEv
+00000000012cbf60 W _ZNK6icu_6014ConstChar16PtrcvPKDsEv

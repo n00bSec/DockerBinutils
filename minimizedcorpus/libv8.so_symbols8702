@@ -1,0 +1,14 @@
+00000000000f6b6d r _ZNSt3__1L19piecewise_constructE
+00000000000f6b6e r _ZNSt3__1L19piecewise_constructE
+00000000000f6c7c r _ZNSt3__1L19piecewise_constructE
+00000000000f6cbc r _ZNSt3__1L19piecewise_constructE
+00000000011bc6b0 W _ZNSt3__1lsIcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_ostreamIT_T0_EES9_RKNS_12basic_stringIS6_S7_T1_EE
+0000000000f7bed0 W _ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_c
+0000000000bc3540 W _ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc
+0000000001194cd0 W _ZNSt3__1lsINS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKh
+0000000001b38380 W _ZNSt3__1plIcNS_11char_traitsIcEENS_9allocatorIcEEEENS_12basic_stringIT_T0_T1_EERKS9_SB_
+0000000001cb0ff0 W _ZNSt3__1plItNS_11char_traitsItEENS_9allocatorItEEEENS_12basic_stringIT_T0_T1_EERKS9_SB_
+000000000163fb90 T _ZNV2v88internal24StackTraceFailureMessage5PrintEv
+                 U _Znwm
+                 U _ZnwmRKSt9nothrow_t
+                 U _ZSt7nothrow
